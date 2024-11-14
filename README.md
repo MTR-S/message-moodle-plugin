@@ -26,8 +26,8 @@ Página de criação das mensagens:
   
   - Sem Mensagens:
     ![adm-msg-sem-msg](https://github.com/user-attachments/assets/38a4a51b-a526-4b7c-b42d-d64a27f16a66)
-
-  - Página de Criação das mensagens:
+    
+- Página de Criação das mensagens:
     ![criacao-msgs](https://github.com/user-attachments/assets/d2b44123-6ad5-4f0c-977a-9832d3b59ecf)
 
   
