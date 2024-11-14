@@ -17,18 +17,19 @@ O **Message Moodle Plugin** é um plugin personalizado desenvolvido para o Moodl
 ## 📷 Visual do plugin
 Página de criação das mensagens:
 
-[criacao-de-mensagens-plugin](https://github.com/user-attachments/assets/e27ec8fa-73c9-425c-a9ff-f944f382de02)
-
-- Página de Administração de mensagens:
+- Página de Administração das mensagens:
 
   - Com Mensagens de diferentes tipos:
   
-  - ![admin-com-msg](https://github.com/user-attachments/assets/b3c050d0-2ad5-4eaf-8532-0db38b9b1572)
+    ![admin-com-msg](https://github.com/user-attachments/assets/b3c050d0-2ad5-4eaf-8532-0db38b9b1572)
   
   
   - Sem Mensagens:
     ![adm-msg-sem-msg](https://github.com/user-attachments/assets/38a4a51b-a526-4b7c-b42d-d64a27f16a66)
-  
+
+  - Página de Criação das mensagens:
+    ![criacao-msgs](https://github.com/user-attachments/assets/d2b44123-6ad5-4f0c-977a-9832d3b59ecf)
+
   
 
 ## 🛠 Tecnologias Utilizadas
