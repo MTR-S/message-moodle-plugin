@@ -17,10 +17,10 @@
     foreach ($messages as $message) {
         switch ($message->messagetype) {
             case '0':
-                $message->typeclass = 'success';
+                $message->typeclass = 'warning';
                 break;
             case '1':
-                $message->typeclass = 'warning';
+                $message->typeclass = 'success';
                 break;
             case '2':
                 $message->typeclass = 'error';
